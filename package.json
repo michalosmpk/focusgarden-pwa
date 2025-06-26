@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "@magento/pwa-buildpack": "~11.5.4",
+    "@twoja-firma/pwa-schema-product": "file:packages/pwa-schema-product",
     "dompurify": "^3.2.6"
   },
   "devDependencies": {
